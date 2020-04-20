@@ -17,7 +17,7 @@ public class ProducBeanBean implements ProducBeanBeanLocal{
     public void fillDB() {
         int i = 0;
         i++;
-        em.close();
+
 
     }
 }

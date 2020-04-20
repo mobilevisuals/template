@@ -18,6 +18,6 @@ public class PersonHandler implements PersonHandlerLocal {
     public void fillDB() {
         int i = 0;
         i++;
-        em.close();
+
     }
 }
